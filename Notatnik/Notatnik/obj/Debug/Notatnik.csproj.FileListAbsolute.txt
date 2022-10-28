@@ -1,0 +1,10 @@
+C:\Users\milyp\source\repos\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+C:\Users\milyp\source\repos\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\milyp\source\repos\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\milyp\source\repos\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+C:\Users\milyp\source\repos\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\Users\milyp\source\repos\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\milyp\source\repos\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+C:\Users\milyp\source\repos\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+C:\Users\milyp\source\repos\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+C:\Users\milyp\source\repos\Notatnik\Notatnik\obj\Debug\Notatnik.pdb

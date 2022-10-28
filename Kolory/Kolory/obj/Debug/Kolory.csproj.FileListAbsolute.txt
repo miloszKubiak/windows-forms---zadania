@@ -1,0 +1,10 @@
+C:\Users\milyp\source\repos\Kolory\Kolory\bin\Debug\Kolory.exe.config
+C:\Users\milyp\source\repos\Kolory\Kolory\bin\Debug\Kolory.exe
+C:\Users\milyp\source\repos\Kolory\Kolory\bin\Debug\Kolory.pdb
+C:\Users\milyp\source\repos\Kolory\Kolory\obj\Debug\Kolory.csprojAssemblyReference.cache
+C:\Users\milyp\source\repos\Kolory\Kolory\obj\Debug\Kolory.Form1.resources
+C:\Users\milyp\source\repos\Kolory\Kolory\obj\Debug\Kolory.Properties.Resources.resources
+C:\Users\milyp\source\repos\Kolory\Kolory\obj\Debug\Kolory.csproj.GenerateResource.cache
+C:\Users\milyp\source\repos\Kolory\Kolory\obj\Debug\Kolory.csproj.CoreCompileInputs.cache
+C:\Users\milyp\source\repos\Kolory\Kolory\obj\Debug\Kolory.exe
+C:\Users\milyp\source\repos\Kolory\Kolory\obj\Debug\Kolory.pdb
